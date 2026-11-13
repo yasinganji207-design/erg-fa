@@ -1,0 +1,38 @@
+{
+  "name": "مرجع مواد خطرناک آتش‌نشانی",
+  "short_name": "HAZMAT · ERG",
+  "description": "مرجع فارسی و متن‌باز واکنش اضطراری مواد خطرناک — پایگاه داده مواد، لوزی NFPA، راهنمای ERG و ابزارهای تاکتیکی (آفلاین).",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#060a13",
+  "theme_color": "#060a13",
+  "categories": [
+    "productivity",
+    "utilities",
+    "education"
+  ],
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
